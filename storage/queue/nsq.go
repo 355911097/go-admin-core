@@ -10,6 +10,7 @@ package queue
 import (
 	"github.com/355911097/go-admin-core/storage"
 	json "github.com/json-iterator/go"
+	"github.com/nsqio/go-nsq"
 )
 
 // NewNSQ nsq模式 只能监听一个channel
