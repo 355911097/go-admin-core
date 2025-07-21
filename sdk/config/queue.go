@@ -4,6 +4,7 @@ import (
 	"github.com/355911097/go-admin-core/redisqueue"
 	"github.com/355911097/go-admin-core/storage"
 	"github.com/355911097/go-admin-core/storage/queue"
+	"github.com/redis/go-redis/v9"
 	"time"
 )
 

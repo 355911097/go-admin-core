@@ -6,6 +6,8 @@ import (
 
 	"github.com/355911097/go-admin-core/logger"
 	"github.com/355911097/go-admin-core/storage"
+	"github.com/casbin/casbin/v2"
+	"github.com/robfig/cron/v3"
 	"gorm.io/gorm"
 )
 

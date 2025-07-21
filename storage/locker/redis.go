@@ -1,9 +1,9 @@
 package locker
 
 import (
-	"time"
-
 	"github.com/355911097/go-admin-core/redislock"
+	"github.com/redis/go-redis/v9"
+	"time"
 )
 
 // NewRedis 初始化locker

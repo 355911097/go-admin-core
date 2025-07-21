@@ -3,14 +3,16 @@ package mycasbin
 import (
 	redisWatcher "github.com/355911097/go-admin-core/redis-watcher"
 	"github.com/355911097/go-admin-core/sdk/config"
-	"github.com/casbin/casbin/v2/model"
 	"strings"
 	"sync"
 
 	gormAdapter "github.com/355911097/go-admin-core/gorm-adapter/v3"
 	"github.com/355911097/go-admin-core/logger"
 	"github.com/355911097/go-admin-core/sdk"
+	"github.com/casbin/casbin/v2"
 	"github.com/casbin/casbin/v2/log"
+	"github.com/casbin/casbin/v2/model"
+	"github.com/redis/go-redis/v9"
 	"gorm.io/gorm"
 )
 
