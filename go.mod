@@ -1,9 +1,8 @@
-module go-admin-core
+module github.com/355911097/go-admin-core
 
 go 1.23.0
 
 require (
-	github.com/355911097/go-admin-core v0.0.0-20250721073805-08506db6603c
 	github.com/BurntSushi/toml v1.4.0
 	github.com/bitly/go-simplejson v0.5.0
 	github.com/bytedance/go-tagexpr/v2 v2.9.2

@@ -1,6 +1,4 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
-github.com/355911097/go-admin-core v0.0.0-20250721073805-08506db6603c h1:5eh8DceTO0meYMf9epcZaBDsh3sO3EekcH4eMOgxVlM=
-github.com/355911097/go-admin-core v0.0.0-20250721073805-08506db6603c/go.mod h1:S6NCFL3bwGmGjSSvL7aEUq+RfKSaiwvDTbRya4oyxes=
 github.com/Azure/azure-sdk-for-go/sdk/azcore v0.19.0/go.mod h1:h6H6c8enJmmocHUbLiiGY6sx7f9i+X3m1CHdd5c6Rdw=
 github.com/Azure/azure-sdk-for-go/sdk/azidentity v0.11.0/go.mod h1:HcM1YX14R7CJcghJGOYCgdezslRSVzqwLf/q+4Y2r/0=
 github.com/Azure/azure-sdk-for-go/sdk/internal v0.7.0/go.mod h1:yqy467j36fJxcRV2TzfVZ1pCb5vxm4BtZPUdYWe/Xo8=
